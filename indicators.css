@@ -1,0 +1,15 @@
+.green_indicator{
+    background: radial-gradient(circle at 65% 15%, white 1px, rgb(102, 255, 0) 3%, rgb(49, 92, 0) 60%, rgb(10, 255, 0) 100%);  
+}
+
+.yellow_indicator{
+    background: radial-gradient(circle at 65% 15%, white 1px, rgb(251, 255, 0) 3%, rgb(110, 131, 36) 60%, rgb(251, 255, 0) 100%);  
+}
+
+.red_indicator{
+    background: radial-gradient(circle at 65% 15%, white 1px, rgb(255, 0, 0) 3%, rgb(109, 0, 0) 60%, rgb(255, 0, 0) 100%);  
+}
+
+.blue_indicator{
+    background: radial-gradient(circle at 65% 15%, white 1px, aqua 3%, darkblue 60%, aqua 100%);  
+}

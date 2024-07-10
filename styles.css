@@ -1,0 +1,146 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+html, body {
+ height: 100%;
+}
+h1, h2, h3, h4, h5, h6, p {
+ margin-bottom: 16px
+}
+
+.wrapper{
+    height: 100%;
+    background: #252525;
+}
+
+.innerWrapper{
+    height: 100%;
+}
+
+nav{
+    position: relative;
+    height: 80px;
+    display:flex;
+    background: #3b3b3b;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+.searchBar{
+    width: 30%;
+    height: 50px;
+    background: rgb(0, 161, 27);
+    display: flex;
+    justify-content: center;
+}
+
+#addpcBtn{
+    display: flex;
+    align-items: center;
+    height: 20px;
+    width: auto;
+    padding: 10px;
+    margin-right: 50px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+#computerListWrapper{
+    height: 500px;
+    width:  300px;
+    border-radius: 10px 0px 10px 10px;
+    position: absolute;
+    top:100%;
+    display: none;
+    z-index: 9;
+    overflow-y: scroll;
+    background: rgba(255, 255, 252, 0.817);
+    backdrop-filter: blur(30px);
+}
+
+#computerListWrapper li{
+    cursor: pointer;
+}
+
+#search_bar{
+position: relative;
+right: 10px; 
+padding: 10px;
+height: 90%;
+width: 90%;
+}
+
+#save img{
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+
+#save{
+    position: relative;
+    right: 70%;
+}
+
+#computerListWrapper h6{
+    position: absolute;
+    right: 20px;
+    top: 50%;
+}
+
+#computerListWrapper li:nth-child(odd) {
+    position: relative;
+    background: #efca93;
+    padding: 5px;
+}
+
+#computerListWrapper li:nth-child(even) {
+    position: relative;
+    background: #d88f00;
+    padding: 5px;
+}
+
+#computerListWrapper li:hover{
+    background-color: rgba(255, 255, 255, 0.349);
+}
+
+.mapArea{
+    position: relative;
+    margin: 0 auto;
+    height: 100%;
+    width: 60%;
+    /* background-color: grey; */
+    background-image: url(/images/INDY\ People.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* ################################################################################################################################# */
+
+.draggable-dots{
+    height:20px;
+    width: 20px;
+    position:absolute;
+    top:30%;
+    left: 20%;
+    cursor:pointer;
+    border-radius: 50%;   
+}
+
+.popUp{
+    position:absolute;
+    height: 9em;
+    width: 16em;
+    padding: 10px;
+    backdrop-filter: blur(14px);
+    background: #252525;
+    border: solid black 1.3px;
+    color: white;
+    z-index: 999999;
+    border-radius: 20px;
+}
+
+
