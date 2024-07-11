@@ -33,7 +33,7 @@ function createComputerElement(computer) {
     let networkType = document.createElement('h6');
     networkType.classList.add('networkType');
     computerState.classList.add('statusTag');
-    let computerIP = document.createElement("p");
+    let computerIP = document.createElement('p');
 
     computerName.textContent = `Name: ${computer.Name}`;
     computerState.textContent = `${computer.State}`;
@@ -48,12 +48,12 @@ function createComputerElement(computer) {
     } else if (computer.State === 'On' && computer.IPAddress.split('.')[2] === "10") {
         networkType.textContent = 'Local';
         computerObject.appendChild(networkType);
-       
     }
 
     computerObject.appendChild(computerName);
     computerObject.appendChild(computerState);
     computerObject.appendChild(computerIP);
+    
 
     // What if the IP Value is null?
     if (computer.IPAddress === null) {
@@ -109,9 +109,10 @@ function createDraggableNode(computer) {
             isDragging = true;
             offsetX = e.clientX - dot.getBoundingClientRect().left;
             offsetY = e.clientY - dot.getBoundingClientRect().top;
+
+            dot.style.cursor = 'grabbing';
         });
         // toggle pop up
-
         popUp.style.display  = 'none';
         dot.addEventListener('contextmenu', (e)=>{
             e.preventDefault();
@@ -128,6 +129,15 @@ function createDraggableNode(computer) {
         //what does this mean
          { passive: false });
 
+         //#######################################
+
+         document.addEventListener('click', (event) => {
+            // Check if the click is outside of the list container
+            if (!popUp.contains(event.target) && !event.target.matches('popUp')) {
+                popUp.style.display = 'none';
+            }
+        });
+        
         // Event listener for mousemove to handle dragging
         document.addEventListener('mousemove', (e) => {
             if (isDragging) {
@@ -153,6 +163,8 @@ function createDraggableNode(computer) {
                 popUp.style.display = 'none';
                 saveNodeState(computer.Name, dot.style.left, dot.style.top);
             }
+
+            dot.style.cursor = 'grab';
         });
 
         // Restore position if previously saved
@@ -185,16 +197,22 @@ function createPopUp(computer) {
     let popUp = document.createElement('span');
     popUp.classList.add('popUp');
     updatePopUpContent(popUp, computer);
+    popUp.appendChild(edit);
     return popUp;
 }
 
 // This function updates the content on the pop ups.
+let edit = document.createElement('p');
+    edit.textContent = 'Edit';
+    edit.classList.add('edit_text');
+
 function updatePopUpContent(popUp, computer) {
     popUp.innerHTML = ''; // Clear existing content
     const computerObject = createComputerElement(computer);
     Array.from(computerObject.childNodes).forEach(child => {
         let clonedChild = child.cloneNode(true);
         popUp.appendChild(clonedChild);
+        popUp.appendChild(edit);
     });
 }
 
@@ -219,3 +237,11 @@ const createdNodes = new Set();
 
 // Call the function to load created nodes on page load
 loadCreatedNodes();
+
+//################################################
+
+//remove nodes
+
+function removeActiveNodes(activeNodes){
+
+}

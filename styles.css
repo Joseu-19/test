@@ -126,13 +126,13 @@ width: 90%;
     position:absolute;
     top:30%;
     left: 20%;
-    cursor:pointer;
+    cursor:grab;
     border-radius: 50%;   
 }
 
 .popUp{
     position:absolute;
-    height: 9em;
+    height: fit-content;
     width: 16em;
     padding: 10px;
     backdrop-filter: blur(14px);
@@ -141,6 +141,12 @@ width: 90%;
     color: white;
     z-index: 999999;
     border-radius: 20px;
+}
+
+.edit_text{
+    width: fit-content;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
 }
 
 
