@@ -1,22 +1,14 @@
 /* Keyframes for blinking animation */
 @keyframes blink {
     0% {
-        opacity: 1;
+        background: radial-gradient(circle at 65% 15%, white 1px, rgb(150, 0, 0) 3%, rgb(80, 0, 0) 60%, rgb(150, 0, 0) 100%);
     }
-    25% {
-        opacity: .8;
-    }
-
-    50%{
-        opacity: .6;
-    }
-
-    75%{
-        opacity: .8;
-    }
+  50% {
+    background: radial-gradient(circle at 65% 15%, white 1px, rgb(200, 0, 0) 3%, rgb(100, 0, 0) 60%, rgb(200, 0, 0) 100%);
+  }
 
     100% {
-        opacity: 1;
+        background: radial-gradient(circle at 65% 15%, white 1px, rgb(255, 0, 0) 3%, rgb(109, 0, 0) 60%, rgb(255, 0, 0) 100%);
     }
 }
 
@@ -32,7 +24,7 @@
 
 .red_indicator {
     background: radial-gradient(circle at 65% 15%, white 1px, rgb(255, 0, 0) 3%, rgb(109, 0, 0) 60%, rgb(255, 0, 0) 100%);
-    animation: blink 1s infinite;
+    animation:blink 1.2s infinite;
 }
 
 .red_indicator:hover{
