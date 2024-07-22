@@ -1,16 +1,14 @@
-const config =require('./dbConfig'),
-sql = require('mssql');
+const config = require('./dbConfig');
+const sql = require('mssql');
 
-const getusers = async() =>{
-    try{
+const getusers = async () => {
+    try {
         let pool = await sql.connect(config);
-        let users = pool.request().query("SELECT * FROM computer_objects");
-        console.log(users);
-        return users
-    }
-
-    catch(error){
-        console.log(error)
+        let result = await pool.request().query("SELECT * FROM nodes");
+        console.log(result.recordset); // Use recordset to get rows
+        return result.recordset;
+    } catch (error) {
+        console.log(error);
     }
 }
 

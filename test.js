@@ -245,3 +245,7 @@ loadCreatedNodes();
 function removeActiveNodes(activeNodes){
 
 }
+
+function searchBar (input){
+    
+}

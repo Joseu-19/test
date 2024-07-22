@@ -1,15 +1,21 @@
 const config = {
-    user: 'testdb',
-    password: 'monkey',
+    user: 'monkey',
+    password: 'aaaaaaaa',
     server: 'PIXELPIRATE',
-    database: 'scsmapsdata',
+    database: 'computer_info',
     options: {
         trustServerCertificate: true,
-        trustConnection: false,
         enableArithAbort: true,
-        instanceName: 'SQLEXPRESS24'
+        instanceName: 'MAPDETAILS24'
     },
-    port: 1433
-}
+    port: 1433,
+    debug: {
+        packet: true,
+        data: true,
+        payload: true,
+        token: true,
+        log: true
+    }
+};
 
 module.exports = config;
