@@ -6,16 +6,11 @@ const config = {
     options: {
         trustServerCertificate: true,
         enableArithAbort: true,
-        instanceName: 'MAPDETAILS24'
+        instanceName: 'MAPDETAILS24',
+    //     requestTimeout: 30000, // 30 seconds
+    // connectionTimeout: 30000 // 30 seconds
     },
-    port: 1433,
-    debug: {
-        packet: true,
-        data: true,
-        payload: true,
-        token: true,
-        log: true
-    }
+    port: 1433
 };
 
 module.exports = config;
