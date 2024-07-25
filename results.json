@@ -1,642 +1,307 @@
 [
     {
-        "Name":  "INDYNLENTS2",
+        "Name":  "NEWNAME1",
         "IPAddress":  "10.1.10.99",
-        "State":  "On"
+        "State":  "Off"
     },
     {
-        "Name":  "INDYRCHIRICO2",
+        "Name":  "NEWNAME2",
         "IPAddress":  "10.1.10.29",
         "State":  "On"
     },
     {
-        "Name":  "INDYRHENDERSON",
+        "Name":  "NEWNAME3",
         "IPAddress":  "10.1.10.94",
         "State":  "On"
     },
     {
-        "Name":  "INDYMSLATER2",
+        "Name":  "NEWNAME4",
         "IPAddress":  "10.1.15.11",
         "State":  "On"
     },
     {
-        "Name":  "INDYHBOUDREAU2",
+        "Name":  "NEWNAME5",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYJWOODRUFF",
+        "Name":  "NEWNAME6",
         "IPAddress":  "10.1.110.21",
         "State":  "On"
     },
     {
-        "Name":  "INDYASUMMERS2",
+        "Name":  "NEWNAME7",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYTSEIFERT2",
+        "Name":  "NEWNAME8",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYMPOPP",
+        "Name":  "NEWNAME9",
         "IPAddress":  "10.1.210.13",
         "State":  "On"
     },
     {
-        "Name":  "INDYJMCGHEE",
+        "Name":  "NEWNAME10",
         "IPAddress":  "10.1.10.25",
         "State":  "On"
     },
     {
-        "Name":  "INDYASUMMERS",
+        "Name":  "NEWNAME11",
         "IPAddress":  "10.1.10.125",
         "State":  "On"
     },
     {
-        "Name":  "INDYRWILLIAMS2",
+        "Name":  "NEWNAME12",
         "IPAddress":  "10.1.15.12",
         "State":  "On"
     },
     {
-        "Name":  "INDYSWHEELER",
+        "Name":  "NEWNAME13",
         "IPAddress":  "10.1.210.13",
         "State":  "On"
     },
     {
-        "Name":  "INDYRBAYLEY2",
+        "Name":  "NEWNAME14",
         "IPAddress":  "10.1.10.73",
         "State":  "On"
     },
     {
-        "Name":  "INDYTBENDER2",
+        "Name":  "NEWNAME15",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYBGRIFFITH2",
+        "Name":  "NEWNAME16",
         "IPAddress":  "10.1.10.62",
         "State":  "On"
     },
     {
-        "Name":  "INDYKBEDDOW",
+        "Name":  "NEWNAME17",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYJSOLOMON",
+        "Name":  "NEWNAME18",
         "IPAddress":  "10.1.210.11",
         "State":  "On"
     },
     {
-        "Name":  "INDYSSTEPHENS2",
+        "Name":  "NEWNAME19",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYLOAN-C1",
+        "Name":  "NEWNAME20",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYSHIPPING-A2",
+        "Name":  "NEWNAME21",
         "IPAddress":  "10.1.10.40",
         "State":  "On"
     },
     {
-        "Name":  "INDYMBUBENZER3",
+        "Name":  "NEWNAME22",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYELAWHEAD",
+        "Name":  "NEWNAME23",
         "IPAddress":  "10.1.10.68",
         "State":  "On"
     },
     {
-        "Name":  "INDYLOAN-A1",
+        "Name":  "NEWNAME24",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYBDIAL2",
+        "Name":  "NEWNAME25",
         "IPAddress":  "10.1.10.76",
         "State":  "On"
     },
     {
-        "Name":  "INDYWHSE-A1",
+        "Name":  "NEWNAME26",
         "IPAddress":  "10.1.10.12",
         "State":  "On"
     },
     {
-        "Name":  "INDYJSELLARS",
+        "Name":  "NEWNAME27",
         "IPAddress":  "10.1.210.10",
         "State":  "On"
     },
     {
-        "Name":  "INDYDENGLAND",
+        "Name":  "NEWNAME28",
         "IPAddress":  "10.1.10.60",
         "State":  "On"
     },
     {
-        "Name":  "INDYSHOPFLR-A1",
+        "Name":  "NEWNAME29",
         "IPAddress":  "10.1.10.110",
         "State":  "On"
     },
     {
-        "Name":  "INDYCPHILEBAUM2",
+        "Name":  "NEWNAME30",
         "IPAddress":  "10.1.10.89",
         "State":  "On"
     },
     {
-        "Name":  "INDYLJOQUIN2",
+        "Name":  "NEWNAME31",
         "IPAddress":  "10.1.10.98",
         "State":  "On"
     },
     {
-        "Name":  "INDYLOAN-D1",
+        "Name":  "NEWNAME32",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYNMARTIN2",
+        "Name":  "NEWNAME33",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYACORDER",
+        "Name":  "NEWNAME34",
         "IPAddress":  "10.1.10.70",
         "State":  "On"
     },
     {
-        "Name":  "INDYEQPQUAL-B1",
+        "Name":  "NEWNAME35",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYJVANMETER",
+        "Name":  "NEWNAME36",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYUV-VIS-A2",
+        "Name":  "NEWNAME37",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYPDESTEFANO",
+        "Name":  "NEWNAME38",
         "IPAddress":  "10.1.10.104",
         "State":  "On"
     },
     {
-        "Name":  "INDYITUNES-A1",
+        "Name":  "NEWNAME39",
         "IPAddress":  "10.1.110.55",
         "State":  "On"
     },
     {
-        "Name":  "INDYEQPQUAL-A1",
+        "Name":  "NEWNAME40",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYELENSKI2",
+        "Name":  "NEWNAME41",
         "IPAddress":  "10.1.10.72",
         "State":  "On"
     },
     {
-        "Name":  "INDYDGORMAN",
+        "Name":  "NEWNAME42",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYLOAN-B2",
+        "Name":  "NEWNAME43",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYSSPENCER",
+        "Name":  "NEWNAME44",
+        "IPAddress":  null,
+        "State":  "Off"
+    },
+    {
+        "Name":  "NEWNAME45",
         "IPAddress":  "10.1.10.88",
         "State":  "On"
     },
     {
-        "Name":  "INDYSECBOOT",
+        "Name":  "NEWNAME46",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYRPRECZ",
+        "Name":  "NEWNAME47",
         "IPAddress":  "10.1.10.41",
         "State":  "On"
     },
     {
-        "Name":  "INDYIAHMAD",
+        "Name":  "NEWNAME48",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYEIGER-A1",
+        "Name":  "NEWNAME49",
         "IPAddress":  "10.1.15.15",
         "State":  "On"
     },
     {
-        "Name":  "INDYBARCODE-A1",
+        "Name":  "NEWNAME50",
         "IPAddress":  "10.1.110.42",
         "State":  "On"
     },
     {
-        "Name":  "INDYRZEITLIN",
+        "Name":  "NEWNAME51",
         "IPAddress":  "10.1.110.113",
         "State":  "On"
     },
     {
-        "Name":  "INDYJURIZAR",
+        "Name":  "NEWNAME52",
         "IPAddress":  "10.1.15.14",
         "State":  "On"
     },
     {
-        "Name":  "EQPQUAL-B",
+        "Name":  "NEWNAME53",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYCGILLESPIE",
+        "Name":  "NEWNAME54",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYLABFTIR-A2",
+        "Name":  "NEWNAME55",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYBMURRAIN",
+        "Name":  "NEWNAME56",
         "IPAddress":  "10.1.15.13",
         "State":  "On"
     },
     {
-        "Name":  "INDYMMCCARTY2",
+        "Name":  "NEWNAME57",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYKDOWERS2",
+        "Name":  "NEWNAME58",
         "IPAddress":  "10.1.10.97",
         "State":  "On"
     },
     {
-        "Name":  "INDYF20-A1",
+        "Name":  "NEWNAME59",
         "IPAddress":  "10.1.10.75",
         "State":  "On"
     },
     {
-        "Name":  "INDYSPARE-A1",
+        "Name":  "NEWNAME60",
         "IPAddress":  null,
         "State":  "Off"
     },
     {
-        "Name":  "INDYDCEVELA2",
+        "Name":  "NEWNAME61",
         "IPAddress":  null,
         "State":  "Off"
-    },
-    {
-        "Name":  "INDYRMILLER2",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYTBENDER",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYFKE2",
-        "IPAddress":  "10.1.10.102",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYJMTEAL",
-        "IPAddress":  "10.1.10.12",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYCHOFFMAN3",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYAGRAPER2",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYRKOLLKER",
-        "IPAddress":  "10.1.210.16",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYKPOLAND",
-        "IPAddress":  "10.1.10.91",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYMSTAPP",
-        "IPAddress":  "10.1.10.93",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYJCLARK",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYJVANKAINEN",
-        "IPAddress":  "10.1.10.24",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYARANDOLPH2",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYMRICHARDSON",
-        "IPAddress":  "10.1.10.123",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYLOANTAB-A1",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYBMILLER2",
-        "IPAddress":  "10.1.110.87",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYQSICLEAN-A1",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYJBREARLEY",
-        "IPAddress":  "10.1.10.55",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYJKNOX",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYRSWARTS2",
-        "IPAddress":  "10.1.10.50",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYALARRISON",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYBFRIZZELL",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYKROSS",
-        "IPAddress":  "10.1.10.35",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYDWILSON2",
-        "IPAddress":  "10.1.10.111",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYKREID2",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYRBLOOM",
-        "IPAddress":  "10.1.10.26",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYMMULLINS2",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYRCMILLER",
-        "IPAddress":  "10.1.10.52",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYLYOUNG2",
-        "IPAddress":  "10.1.10.77",
-        "State":  "On"
-    },
-    {
-        "Name":  "LONGCLAW",
-        "IPAddress":  "10.1.100.54",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYKRICHARD",
-        "IPAddress":  "10.1.10.65",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYMAP-V-A1",
-        "IPAddress":  "10.1.100.67",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYMDYER",
-        "IPAddress":  "10.1.10.100",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYKBEDDOW2",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYNMOTSAY",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYMADGETECH-A",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYMSPRINGER",
-        "IPAddress":  "10.1.210.11",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYBAUSTIN2",
-        "IPAddress":  "10.1.10.83",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYRKUMAR",
-        "IPAddress":  "10.1.10.105",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYKOLDIGES2",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYGSCHWEDLER2",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYZFLOHR2",
-        "IPAddress":  "10.1.110.72",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYRNOLTE2",
-        "IPAddress":  "10.1.10.71",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYPSHAW2",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYMKELTY",
-        "IPAddress":  "10.1.10.13",
-        "State":  "On"
-    },
-    {
-        "Name":  "LONGCLAW-TEST",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYCHUGHES",
-        "IPAddress":  "10.1.10.15",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYSMARDIS2",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "DIESEL",
-        "IPAddress":  "10.1.100.72",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYTREED",
-        "IPAddress":  "10.1.10.21",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYSHIPPING-B1",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYJPASCHKE",
-        "IPAddress":  "10.1.10.43",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYJMOORE",
-        "IPAddress":  "10.1.10.22",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYCHOFFMAN",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYITTEST",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYATHOMAS",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYREDMONSON2",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYDMOLIN2",
-        "IPAddress":  "10.1.10.86",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYMYOUNG",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYCCARTER2",
-        "IPAddress":  "10.1.10.31",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYHSOSA2",
-        "IPAddress":  "10.1.110.32",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYSPARE-B1",
-        "IPAddress":  "10.1.110.47",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYTSARGENT3",
-        "IPAddress":  "10.1.10.95",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYJJENNINGS",
-        "IPAddress":  "10.1.10.85",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYLOANTAB-B1",
-        "IPAddress":  null,
-        "State":  "Off"
-    },
-    {
-        "Name":  "INDYWVANDER",
-        "IPAddress":  "10.1.10.64",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYDSFOX2",
-        "IPAddress":  "10.1.10.109",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYBBREEN",
-        "IPAddress":  "10.1.210.12",
-        "State":  "On"
-    },
-    {
-        "Name":  "INDYJNEDDER2",
-        "IPAddress":  "10.1.10.11",
-        "State":  "On"
     }
 ]
